@@ -1,0 +1,10 @@
+body{
+    background:#ccc;
+
+    text-align: center;
+  }
+  
+  #canvas{
+    border:thin inset #AAA;
+    background:#FFF;
+  }
